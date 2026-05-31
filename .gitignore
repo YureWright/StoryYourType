@@ -45,8 +45,6 @@ assets/
 # Config with secrets
 config_local.py
 
-# GIF
-*.gif
 
 # Temporary
 *.tmp
