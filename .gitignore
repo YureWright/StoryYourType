@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+log_and_warn/
+*.log
+
+# Output
+output/
+assets/
+
+# Config with secrets
+config_local.py
+
+# GIF
+*.gif
+
+# Temporary
+*.tmp
+temp/
+
+#设计稿
+口播稿.docx
+book.json
+book.txt
+demand.md
+demo图.docx
