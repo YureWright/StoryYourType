@@ -1,6 +1,6 @@
 from datetime import datetime
 
-API_KEY = "sk-91e323fc87104d47a2b9dbb169691a70"
+API_KEY = "sk-***"
 BASE_URL = "https://dashscope.aliyuncs.com/compatible-mode/v1"
 MODEL = "qwen3.6-plus"
 INPUTDIR = "input"
@@ -115,6 +115,6 @@ ERROR_RECORD=f"{WARNINGS_PATH}/content_blank/{date_str}_error_record.txt"
 max_retries=3
 
 #生图模型配置
-IMG_API_KEY = "sk-91e323fc87104d47a2b9dbb169691a70"
+IMG_API_KEY = "sk-***"
 IMG_BASE_URL = 'https://dashscope.aliyuncs.com/api/v1'
 IMG_MODEL = "wan2.7-image"
